@@ -1,0 +1,25 @@
+﻿{
+  "request_id": "2004357.0",
+  "permit_number": "21BLD-4146",
+  "inspection_scheduled_date": "2022-02-01T00:00:00",
+  "estimated_inspection_arrival_time": "10:00:00",
+  "address": {
+    "latitude": "34.029362",
+    "longitude": "-118.456346",
+    "human_address": "{\"address\": \"3350 DELAWARE AVE\", \"city\": \"SANTA MONICA\", \"state\": \"CA\", \"zip\": \"90404\"}"
+  },
+  "inspection_type": "1390 PROJECT FINAL",
+  "description": "Voluntary seismic retrofit of one-story single family residence.",
+  "inspector_assigned": "Alex  Ortega",
+  "status": "C of O",
+  "valuation": "2500.00",
+  "class_code": "434",
+  "class_code_description": "Add or Alter Dwellings (No Increase or Decrease In Units)                                           ",
+  "inspection_request_date": "2022-01-24T12:53:40",
+  "permit_issuance_date": "2022-01-04T00:00:00",
+  "permit_expiration_date": "2022-07-31T00:00:00",
+  "first_inspector": "Alex  Ortega",
+  "last_inspector": "Alex  Ortega",
+  "permit_type": "Residential",
+  "permit_sub_type": "Seismic Retrofit SMMC 8.68"
+}
